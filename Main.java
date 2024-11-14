@@ -1,5 +1,10 @@
 public class Main {
 
-    //Hier de main code van SCAN!T//
+
+    public static void main ( String [] args) {
+        System.out.println("hello world");
+        System.out.println("Lucas Baas");
+        System.out.println("VIncent is aan het werken!");
     }
 }
+//hier test commit vincent//
